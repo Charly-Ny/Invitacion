@@ -648,6 +648,12 @@ span{
         margin-bottom: -10rem;
         width: 80vw;
     }
+    .service-box{
+        background-color: var(--main-color);
+        height: 430px;
+        border-radius: 3rem;
+        border: 5px solid transparent;
+    }
     .services h2{
         margin-bottom: 6rem;
     }
